@@ -1,6 +1,6 @@
 import { ComponentFactory, ComponentRef, Injectable } from '@angular/core';
 import { ComponentFactoryResolver,Injector } from '@angular/core';
-import { MarkerComponent } from './marker/marker.component';
+
 
 @Injectable({
   providedIn: 'root'
